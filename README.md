@@ -52,7 +52,7 @@ The dataset contains **234 countries/territories** with the following features:
 * ✔️ Checked uniqueness of data
 * ✔️ Verified data types using `.info()`
 
----
+---<img width="1763" height="844" alt="Screenshot_2-5-2026_04321_localhost" src="https://github.com/user-attachments/assets/1a6fd635-5edb-4f86-9c1e-2c2337c72fb6" />
 
 ## 📈 Exploratory Data Analysis
 
