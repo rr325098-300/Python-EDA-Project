@@ -88,7 +88,6 @@ df.groupby('Continent').mean(numeric_only=True)
 ```python
 df.boxplot()
 ```
-<img width="1763" height="844" alt="Screenshot_2-5-2026_20217_localhost" src="https://github.com/user-attachments/assets/a3b0abe5-cc90-47d8-8985-a1789921099a" />
 
 
 
@@ -104,6 +103,7 @@ df.boxplot()
 ```python
 sns.heatmap(df.corr(numeric_only=True), annot=True)
 ```
+<img width="1763" height="844" alt="Screenshot_2-5-2026_20217_localhost" src="https://github.com/user-attachments/assets/a3b0abe5-cc90-47d8-8985-a1789921099a" />
 
 📌 **Insights:**
 
